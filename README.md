@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Efim Steinzaig
-- 👀 Technical writer
+- Technical writer
 - 📫 How to reach me: esteinzaig@gmail.com
 
 <!---
